@@ -1,0 +1,22 @@
+[
+    {
+        "package": "tidypolars",
+        "url": "https://github.com/etiennebacher/tidypolars"
+    },
+    {
+        "package": "altdoc",
+        "url": "https://github.com/etiennebacher/altdoc"
+    },
+    {
+        "package": "conductor",
+        "url": "https://github.com/etiennebacher/conductor"
+    },
+    {
+        "package": "shinyfullscreen",
+        "url": "https://github.com/etiennebacher/shinyfullscreen"
+    },
+    {
+        "package": "prompter",
+        "url": "https://github.com/etiennebacher/prompter"
+    }
+]
