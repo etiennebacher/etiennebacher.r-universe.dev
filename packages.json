@@ -4,6 +4,10 @@
         "url": "https://github.com/etiennebacher/tidypolars"
     },
     {
+        "package": "polars",
+        "url": "https://github.com/pola-rs/r-polars"
+    },
+    {
         "package": "altdoc",
         "url": "https://github.com/etiennebacher/altdoc"
     },
