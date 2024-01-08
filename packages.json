@@ -5,7 +5,8 @@
     },
     {
         "package": "polars",
-        "url": "https://github.com/pola-rs/r-polars"
+        "url": "https://github.com/pola-rs/r-polars",
+        "branch": "*release"
     },
     {
         "package": "altdoc",
