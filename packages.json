@@ -1,7 +1,8 @@
 [
     {
         "package": "tidypolars",
-        "url": "https://github.com/etiennebacher/tidypolars"
+        "url": "https://github.com/etiennebacher/tidypolars",
+        "branch": "*release"
     },
     {
         "package": "polars",
@@ -10,18 +11,22 @@
     },
     {
         "package": "altdoc",
-        "url": "https://github.com/etiennebacher/altdoc"
+        "url": "https://github.com/etiennebacher/altdoc",
+        "branch": "*release"
     },
     {
         "package": "conductor",
-        "url": "https://github.com/etiennebacher/conductor"
+        "url": "https://github.com/etiennebacher/conductor",
+        "branch": "*release"
     },
     {
         "package": "shinyfullscreen",
-        "url": "https://github.com/etiennebacher/shinyfullscreen"
+        "url": "https://github.com/etiennebacher/shinyfullscreen",
+        "branch": "*release"
     },
     {
         "package": "prompter",
-        "url": "https://github.com/etiennebacher/prompter"
+        "url": "https://github.com/etiennebacher/prompter",
+        "branch": "*release"
     }
 ]
