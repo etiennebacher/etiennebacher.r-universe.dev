@@ -5,6 +5,11 @@
         "branch": "*release"
     },
     {
+        "package": "loc",
+        "url": "https://github.com/etiennebacher/loc",
+        "branch": "*release"
+    },
+    {
         "package": "polars",
         "url": "https://github.com/pola-rs/r-polars",
         "branch": "*release"
