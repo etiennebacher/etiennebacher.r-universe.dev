@@ -10,6 +10,11 @@
         "branch": "*release"
     },
     {
+        "package": "astgrepr",
+        "url": "https://github.com/etiennebacher/astgrepr",
+        "branch": "*release"
+    },
+    {
         "package": "polars",
         "url": "https://github.com/pola-rs/r-polars",
         "branch": "*release"
