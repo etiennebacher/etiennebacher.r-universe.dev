@@ -16,8 +16,7 @@
     },
     {
         "package": "astgrepr",
-        "url": "https://github.com/etiennebacher/astgrepr",
-        "branch": "*release"
+        "url": "https://github.com/etiennebacher/astgrepr"
     },
     {
         "package": "polars",
