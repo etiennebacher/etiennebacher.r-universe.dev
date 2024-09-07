@@ -12,6 +12,7 @@
     {
         "package": "flint",
         "url": "https://github.com/etiennebacher/flint",
+        "branch": "*release"
     },
     {
         "package": "astgrepr",
