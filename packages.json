@@ -10,8 +10,8 @@
         "branch": "*release"
     },
     {
-        "package": "flint",
-        "url": "https://github.com/etiennebacher/flint",
+        "package": "flir",
+        "url": "https://github.com/etiennebacher/flir",
         "branch": "*release"
     },
     {
